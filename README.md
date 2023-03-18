@@ -8,7 +8,7 @@ It is built using [Spring Boot](http://projects.spring.io/spring-boot/), [Go kit
 
 You can read more about the [application design](./internal-docs/design.md).
 
-## Deployment Platforms
+## Deployment Platforms MAKE I KNOW
 
 The [deploy folder](./deploy/) contains scripts and instructions to provision the application onto your favourite platform. 
 
